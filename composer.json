@@ -1,6 +1,6 @@
 {
-  "name": "vendor_name/testcomposer",
-  "description": "description",
+  "name": "vendor_name/dekeukenboer",
+  "description": "Opdracht de keukenboer, wat kun je met Composer?",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [

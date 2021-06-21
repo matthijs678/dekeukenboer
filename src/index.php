@@ -7,16 +7,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
-    <link rel="stylesheet" href="fontawesome/css/all.min.css" type="text/css" /> 
-    <link rel="stylesheet" href="css/slick.css" type="text/css" />   
+    <link rel="stylesheet" href="fontawesome/css/all.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/slick.css" type="text/css" />
     <link rel="stylesheet" href="css/tooplate-simply-amazed.css" type="text/css" />
-<!--
-
-Tooplate 2123 Simply Amazed
-
-https://www.tooplate.com/view/2123-simply-amazed
-
--->
 </head>
 
 <body>
@@ -41,7 +34,7 @@ https://www.tooplate.com/view/2123-simply-amazed
                 </div>
             </nav>
         </header>
-        
+
         <button class="navbar-button collapsed" type="button">
             <span class="menu_icon">
                 <span class="icon-bar"></span>
@@ -49,7 +42,7 @@ https://www.tooplate.com/view/2123-simply-amazed
                 <span class="icon-bar"></span>
             </span>
         </button>
-        
+
         <main id="content-box" class="order-first">
             <div class="banner-section section parallax-window" data-parallax="scroll" data-image-src="img/section-1-bg.jpg" id="section-1">
                 <div class="container">
@@ -59,7 +52,7 @@ https://www.tooplate.com/view/2123-simply-amazed
                     </div>
                 </div>
             </div>
-        
+
             <section class="work-section section" id="section-2">
                 <div class="container">
                     <div class="row">
@@ -68,7 +61,7 @@ https://www.tooplate.com/view/2123-simply-amazed
                                 <div class="icn"><i class="fas fa-2x fa-icons"></i></div>
                                 <h3>.01 Get An Idea</h3>
                                 <p>Simply Amazed is free HTML template provided by Tooplate website. Please tell your friends about our website. Thank you.</p>
-                            </div>                        
+                            </div>
                         </div>
                         <div class="item col-md-4 one">
                             <div class="tm-work-item-inner">
@@ -190,7 +183,7 @@ https://www.tooplate.com/view/2123-simply-amazed
                     <div class="row">
                         <div class="col-lg-5 col-md-6 mb-4 contact-form">
                             <div class="form tm-contact-item-inner">
-                                <form action="#" method="POST">
+                                <form action="handlemessage.php" method="POST">
                                     <div class="form-group">
                                         <input name="name" type="text" class="form-control" placeholder="Name">
                                     </div>
@@ -223,24 +216,24 @@ https://www.tooplate.com/view/2123-simply-amazed
                                         <span class="lbl">URL:</span> <a href="#">www.company.com</a>
                                     </li>
                                 </ul>
-                            </div>                        
+                            </div>
                         </div>
                         <div class="col-lg-3 col-md-12 map">
                             <!-- Map -->
                             <div class="map-outer tm-mb-40">
                                 <div class="gmap-canvas">
                                     <iframe width="100%" height="400" id="gmap-canvas"
-                                        src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                                        src="https://maps.google.com/maps?q=roc tilburg, kasteeldreef122&t=&z=13&ie=UTF8&iwloc=&output=embed"
                                         frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                                 </div>
                             </div>
                         </div>
-                    </div>                
+                    </div>
                 </div>
                 <footer class="footer container container-2">
-                    <div class="row"> 
-                        <p class="col-sm-7">Copyright 2021 Simply Amazed Co.</p>
-                        <p class="col-sm-5 text-right design">Design: <a rel="nofollow" href="https://www.tooplate.com" target="_parent">Tooplate</a></p>
+                    <div class="row">
+                        <p class="col-sm-7">Copyright 2021 De Keukenboer</p>
+                        <p class="col-sm-5 text-right"></p>
                     </div>
                 </footer>
             </section>
