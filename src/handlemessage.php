@@ -1,5 +1,4 @@
 <?php
-echo "<pre>";
 
 // Check if name, email and message are given
 if ( ! empty($_POST['name']) && ! empty($_POST['email']) && ! empty($_POST['message'])) {
