@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="fontawesome/css/all.min.css" type="text/css" />
     <link rel="stylesheet" href="css/slick.css" type="text/css" />
-    <link rel="stylesheet" href="css/tooplate-simply-amazed.css" type="text/css" />
+    <link rel="stylesheet" href="css/dekeukenboer.css" type="text/css" />
 </head>
 
 <body>
