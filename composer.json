@@ -10,5 +10,6 @@
     }
   ],
   "require": {
+    "laminas/laminas-validator": "^2.14"
   }
 }
