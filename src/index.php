@@ -19,16 +19,16 @@
                 <div class="collapse navbar-collapse single-page-nav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="#section-1"><span class="icn"><i class="fas fa-2x fa-air-freshener"></i></span> Our Company</a>
+                            <a class="nav-link" href="#section-1"><span class="icn"><i class="fas fa-2x fa-air-freshener"></i></span>Our Company</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#section-2"><span class="icn"><i class="fab fa-2x fa-battle-net"></i></span> Our Work</a>
+                            <a class="nav-link" href="#section-2"><span class="icn"><i class="fab fa-2x fa-battle-net"></i></span>Our Work</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#section-3"><span class="icn"><i class="far fa-2x fa-images"></i></span> Gallery</a>
+                            <a class="nav-link" href="#section-3"><span class="icn"><i class="far fa-2x fa-images"></i></span>Gallery</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#section-4"><span class="icn"><i class="far fa-2x fa-comments"></i></span> Contact</a>
+                            <a class="nav-link" href="#section-4"><span class="icn"><i class="far fa-2x fa-comments"></i></span>Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -47,8 +47,8 @@
             <div class="banner-section section parallax-window" data-parallax="scroll" data-image-src="img/section-1-bg.jpg" id="section-1">
                 <div class="container">
                     <div class="item">
-                        <div class="bg-blue-transparent logo-fa"><span><i class="fas fa-2x fa-atom"></i></span> Simply Amazed</div>
-                        <div class="bg-blue-transparent simple"><p>Your simplest HTML template, the most amazing page ever, yet free!</p></div>
+                        <div class="bg-blue-transparent logo-fa"><span><i class="fas fa-2x fa-atom"></i></span>De Keukenboer</div>
+                        <div class="bg-blue-transparent simple"><p>Simple and cheap but amazing!</p></div>
                     </div>
                 </div>
             </div>
@@ -59,27 +59,27 @@
                         <div class="item col-md-4">
                             <div class="tm-work-item-inner">
                                 <div class="icn"><i class="fas fa-2x fa-icons"></i></div>
-                                <h3>.01 Get An Idea</h3>
-                                <p>Simply Amazed is free HTML template provided by Tooplate website. Please tell your friends about our website. Thank you.</p>
+                                <h3>1 Idee</h3>
+                                <p>Teken uw droomkeuken in onze eenvoudige ontwerptool</p>
                             </div>
                         </div>
                         <div class="item col-md-4 one">
                             <div class="tm-work-item-inner">
                                 <div class="icn"><i class="fas fa-2x fa-tools"></i></div>
-                                <h3>.02 Create It</h3>
-                                <p>This is a full-width CSS template with bootstrap 5, you can download, modify and use this layout for your simple CSS website.</p>
+                                <h3>2 Detailering</h3>
+                                <p>Maak een afspraak met een van onze mensen om uw ontwerp tot in detail uit te werken</p>
                             </div>
                         </div>
                         <div class="item col-md-4 two">
                             <div class="tm-work-item-inner">
                                 <div class="icn"><i class="fab fa-2x fa-phoenix-framework"></i></div>
-                                <h3>.03 Execute it</h3>
-                                <p>You are allowed to use this for your personal and commerical projects, you are not allowed to redistribute the template ZIP file on any download site.</p>
+                                <h3>3 Uitvoering</h3>
+                                <p>Na uw goedkeuring starten wij met de uitvoering. Uiteraard wordt de keuken ter plekke geïnstalleerd.</p>
                             </div>
                         </div>
                     </div>
                     <div class="title">
-                        <h2>Our Work</h2>
+                        <h2>Portfolio</h2>
                     </div>
                 </div>
             </section>
@@ -87,7 +87,7 @@
             <section class="gallery-section section parallax-window" data-parallax="scroll" data-image-src="img/section-3-bg.jpg" id="section-3">
                 <div class="container">
                     <div class="title text-right">
-                        <h2>Our Gallery</h2>
+                        <h2>Ons portfolio</h2>
                     </div>
                     <div class="mx-auto gallery-slider">
                         <figure class="effect-julia item">
@@ -178,7 +178,7 @@
             <section class="contact-section section" id="section-4">
                 <div class="container">
                     <div class="title">
-                        <h3>Contact Us</h3>
+                        <h3>Contact</h3>
                     </div>
                     <div class="row">
                         <div class="col-lg-5 col-md-6 mb-4 contact-form">
@@ -209,11 +209,11 @@
                                     </li>
                                     <li>
                                         <span class="icn"><i class="fas fa-at"></i></span>
-                                        <span class="lbl">Email:</span> <a href="#">info@company.com</a>
+                                        <span class="lbl">Email:</span> <a href="#">info@dekeukenboer.com</a>
                                     </li>
                                     <li>
                                         <span class="icn"><i class="fas fa-globe-asia"></i></span>
-                                        <span class="lbl">URL:</span> <a href="#">www.company.com</a>
+                                        <span class="lbl">URL:</span> <a href="#">www.dekeukenboer.com</a>
                                     </li>
                                 </ul>
                             </div>
