@@ -1,0 +1,5 @@
+RewriteEngine on
+
+# localhost will be redirected to localhost/src
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^$ /src
